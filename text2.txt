@@ -1,3 +1,0 @@
-[master (root-commit) 6cc6a94] Второй коммит
- 1 file changed, 1 insertion(+)
- create mode 100644 text1.txt
